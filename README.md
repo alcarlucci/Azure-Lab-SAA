@@ -540,7 +540,14 @@ Listagem de todos os recursos criados no Azure para montagem dos Ambientes "On-p
 ![all-resources-p02](./Img/all-resources-p02.png)  
 ![all-resources-p03](./Img/all-resources-p03.png)
 
----  
+## Custos com os recursos utilizados no Azure
+
+Visão geral dos custos ocorridos com os recursos utilizados no Azure durante a realização do Laboratório, ao longo de aproximadamente 10 dias. Destacando que mantinha as VMs desligadas nos períodos em que não estava desenvolvendo o laboratório.
+
+![azure-spending-rate](./Img/azure-spending-rate.png)
+
+## Badge de Conclusão da "Semana Arquiteto Azure"
+
 ![badge-conclusao-SAA](./Img/badge-conclusao-SAA.jpg)
 
 ## Links de Referência
