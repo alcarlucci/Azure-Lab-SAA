@@ -4,7 +4,7 @@ Documentação das atividades realizadas na execução do laboratório prático 
 
 ## Objetivos do Projeto SAA
 
-- Realizar a migração das Aplicações para o Azure
+- Realizar a migração das Aplicações da TFTEC Cloud para o Azure
 - Escopo técnico:
   - Configuração de um Modelo de Nuvem Híbrida: Azure e On-premises
   - Definição de conectividade ligando a rede local com o ambiente do Azure
@@ -525,11 +525,23 @@ Retirar o acesso externo à "vm-app" por meio do IP público, permitindo o acess
 ## Acessar as Aplicações
 
 **Aplicação Sistema**: [Public_IP_Application_Gateway]  
-**Aplicação Dashboard**: [Public_IP_Application_Gateway]:8080
+
+![tela-acesso-sistema](./Img/tela-acesso-sistema.png)
+
+**Aplicação Dashboard**: [Public_IP_Application_Gateway]:8080  
+
+![tela-acesso-dashboard](./Img/tela-acesso-dashboard.png)
 
 ## Listagem dos Recursos criados no Azure
 
-Listagem de todos os recursos criados no Azure para montagem dos Ambientes On-premises e Azure na realizaçao do laboratório.
+Listagem de todos os recursos criados no Azure para montagem dos Ambientes "On-premises" e "Azure", totalizando cerca de 44 recursos criados ao longo da execução do laboratório.
+
+![all-resources-p01](./Img/all-resources-p01.png)  
+![all-resources-p02](./Img/all-resources-p02.png)  
+![all-resources-p03](./Img/all-resources-p03.png)
+
+---  
+![badge-conclusao-SAA](./Img/badge-conclusao-SAA.jpg)
 
 ## Links de Referência
 
